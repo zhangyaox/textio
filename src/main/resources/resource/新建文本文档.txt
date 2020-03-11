@@ -1,0 +1,10 @@
+<link href="/resource/css/bootstrap.css" rel="stylesheet">
+<script type="text/javascript" src="/resource/js/jquery-1.8.2.min.js"></script>
+
+
+
+<dependency>
+			<groupId>com.zhangyaoxing</groupId>
+			<artifactId>zhangyaoxing-util</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
